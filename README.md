@@ -1,5 +1,5 @@
 # ChordDiagram
-====
+
 
 A basic implementation of chord diagrams to be used as starting point for implementing custom plots in Bokeh.
 
